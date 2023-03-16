@@ -6,3 +6,8 @@
     System.out.println("Anything but what you were expecting here");
     }
 ```
+
+- [x] write to do list
+- [x] commit to do list
+- [ ] complete the rest of my to dos off this list
+
